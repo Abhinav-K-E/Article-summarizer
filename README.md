@@ -4,6 +4,8 @@
 
 This is a React-based web application that utilizes AI technology to summarize articles. The app is designed to make reading long articles more accessible and efficient.
 
+[Demo](http://summarizer-v3.netlify.app/)
+
 ## 🚀 **Features**
 
 - Input an article URL or paste the text directly into the input field.
